@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Visual Code/Tareas Electiva 2/Segundo Parcial/web2","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Visual Code/Tareas Electiva 2/Segundo Parcial","disabled":false,"__vagrantfile":true}}}
